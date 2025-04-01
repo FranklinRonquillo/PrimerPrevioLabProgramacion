@@ -26,6 +26,10 @@
      padding-bottom: 30px;
  }
 
+ iframe{ 
+     object-fit: cover;
+     
+ }
  .container2 {
      display: flex;
      justify-content: space-between;
