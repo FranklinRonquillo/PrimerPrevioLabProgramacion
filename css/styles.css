@@ -1,0 +1,114 @@
+ body {
+     background-color: antiquewhite;
+ }
+
+ .container {
+     display: flex;
+     background-color: rgb(61, 46, 33);
+     justify-content: center;
+ }
+
+ .item {
+     padding: 20px;
+ }
+
+ .navbar {
+     color: white;
+ }
+
+ .marron {
+     color: rgb(61, 46, 33);
+ }
+
+ .video {
+     display: flex;
+     justify-content: center;
+     padding-bottom: 30px;
+ }
+
+ .container2 {
+     display: flex;
+     justify-content: space-between;
+     padding: 10px;
+ }
+
+ .item2 {
+     width: 45%;
+     text-align: center;
+     padding: 20px;
+     background-color: rgb(252, 252, 235);
+     border-radius: 25px;
+ }
+
+.imagen {
+     width: 200px;
+ }
+
+ .opinion {
+     text-align: center;
+ }
+
+ .item3 {
+     padding: 20px;
+     background-color: rgb(252, 252, 235);
+     border-radius: 25px;
+ }
+
+ .texto {
+     padding: 10px;
+     background-color: rgb(248, 241, 232);
+     justify-content: start;
+     border-radius: 20px;
+ }
+
+ .boton {
+     display: flex;
+     text-align: center;
+     background-color: rgb(61, 46, 33);
+     border-radius: 7px;
+ }
+
+ .negrita {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ input{
+    width: 98%;
+ }
+
+ textarea{
+    width: 98%;
+ }
+
+ .enviar{
+    color: white;
+    margin: 5px;
+ }
+
+ a{
+    text-decoration: none;
+    color: white;
+ }
+
+ .imagenes{
+    width: 150px;
+    border-radius: 15px;
+ }
+
+ .item4{
+    text-align: center;
+    width: 300px;
+    background-color: rgb(250, 242, 231);
+    padding: 10px;
+ }
+
+ .margin{
+    margin: 0px;
+ }
+
+ .grid{
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+ }
