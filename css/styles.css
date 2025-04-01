@@ -26,10 +26,6 @@
      padding-bottom: 30px;
  }
 
- iframe{ 
-     object-fit: cover;
-     
- }
  .container2 {
      display: flex;
      justify-content: space-between;
@@ -44,7 +40,7 @@
      border-radius: 25px;
  }
 
-.imagen {
+ .imagen {
      width: 200px;
  }
 
@@ -73,46 +69,46 @@
  }
 
  .negrita {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
 
- input{
-    width: 98%;
+ input {
+     width: 98%;
  }
 
- textarea{
-    width: 98%;
+ textarea {
+     width: 98%;
  }
 
- .enviar{
-    color: white;
-    margin: 5px;
+ .enviar {
+     color: white;
+     margin: 5px;
  }
 
- a{
-    text-decoration: none;
-    color: white;
+ a {
+     text-decoration: none;
+     color: white;
  }
 
- .imagenes{
-    width: 150px;
-    border-radius: 15px;
+ .imagenes {
+     width: 150px;
+     border-radius: 15px;
  }
 
- .item4{
-    text-align: center;
-    width: 300px;
-    background-color: rgb(250, 242, 231);
-    padding: 10px;
+ .item4 {
+     text-align: center;
+     width: 300px;
+     background-color: rgb(250, 242, 231);
+     padding: 10px;
  }
 
- .margin{
-    margin: 0px;
+ .margin {
+     margin: 0px;
  }
 
- .grid{
-    padding: 20px;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 10px;
+ .grid {
+     padding: 20px;
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     gap: 10px;
  }
